@@ -1,0 +1,17 @@
+$lightPink: #EABEC3;
+
+.app{
+
+    .container{
+
+        // login + register
+        .auth{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: $lightPink;
+        }
+    }
+
+}
