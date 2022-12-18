@@ -139,6 +139,49 @@ $lightPink: #EABEC3;
                 }
             }
         }
+
+
+        // single post page
+        .single{
+            display: flex;
+            gap: 50px;
+
+            .content{
+                flex: 5;
+
+                h1{
+                    color: #6D6875;
+                }
+
+                p{
+                    color: #6D6875;
+                    text-align: justify;
+                    padding-right: 40px;
+                }
+
+
+                .info{
+                    p{
+                        font-weight: bold;
+                        color: #6D6875;
+                    }
+                }
+
+                .edit{
+                    display: flex;
+
+                    img{
+                        width: 20px;
+                        height: 20px;
+                        cursor: pointer;
+                    }
+                }
+            }
+
+            .menu{
+                flex: 2;
+            }
+        }
     }
 
 }
