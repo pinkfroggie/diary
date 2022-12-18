@@ -88,6 +88,14 @@ $lightPink: #EABEC3;
                 }
             }
         }
+
+        // footer
+        footer{
+            margin-top: 200px;
+            padding: 20px;
+            background-color: $lightPink;
+            display: flex;
+        }
     }
 
 }

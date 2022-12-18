@@ -1,8 +1,15 @@
 import React from 'react'
 
 const Home = () => {
+
+  const posts =[
+    
+  ]
+
   return (
-    <div>Home</div>
+    <div className='home'>
+      Home
+      </div>
   )
 }
 
