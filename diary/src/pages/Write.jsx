@@ -5,8 +5,6 @@ import 'react-quill/dist/quill.snow.css';
 const Write = () => {
   const [value, setValue] = useState('');
 
-  console.log(value)
-
   return (
     <div className='add'>
       <div className="content">
@@ -16,7 +14,13 @@ const Write = () => {
         </div>
       </div>
       <div className="menu">
-        <div className="item">i1</div>
+        <div className="item">
+          <span><b>Status:</b> <i>Draft</i></span>
+          <div className="buttons">
+          <button>Publish</button>
+          <button>Save as a draft</button>
+          </div>
+        </div>
       </div>
     </div>
   )
