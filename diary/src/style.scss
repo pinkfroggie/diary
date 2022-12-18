@@ -209,8 +209,18 @@ $lightPink: #EABEC3;
 
 
         // write post page
-        .write{
-            
+        .add{
+            margin-top: 20px;
+            display: flex;
+            gap: 20px;
+
+            .content{
+                flex: 5;
+            }
+
+            .menu{
+                flex: 2;
+            }
         }
     }
 
