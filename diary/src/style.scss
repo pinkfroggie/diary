@@ -1,9 +1,11 @@
 $lightPink: #EABEC3;
 
 .app{
+    display: flex;
+    justify-content: center;
 
     .container{
-
+        width: 750px;
         // login + register
         .auth{
             display: flex;
@@ -38,6 +40,21 @@ $lightPink: #EABEC3;
             span{
                 font-size: 12px;
                 text-align: center;
+            }
+        }
+
+        // navbar
+        .navbar{
+            .container{
+                padding: 10px 0px;
+                display: flex;
+                justify-content: space-between;
+                .logo{
+                    
+                }
+                .links{
+
+                }
             }
         }
     }
