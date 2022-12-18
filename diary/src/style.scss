@@ -3,9 +3,11 @@ $lightPink: #EABEC3;
 .app{
     display: flex;
     justify-content: center;
+    background-color: #EDEEF3;
 
     .container{
         width: 750px; 
+
         // maybe change width to flex to work on smaller screens
 
         .link{
@@ -64,6 +66,7 @@ $lightPink: #EABEC3;
                     display: flex;
                     align-items: center;
                     gap: 30px;
+                    color: #6D6875;
 
                     h5{
                         font-size: 15px;
@@ -95,6 +98,38 @@ $lightPink: #EABEC3;
             padding: 20px;
             background-color: $lightPink;
             display: flex;
+        }
+
+        // home
+        .home {
+
+            .posts{
+                margin-top: 50px;
+                display: flex;
+                flex-direction: row;
+                gap: 80px;
+                justify-content: center;
+            }
+
+            .post{
+                background-color: #F5DDE0;
+                padding-left: 10px;
+                border: 1px solid $lightPink;
+            }
+
+            .content {
+                justify-content: space-between;
+
+                h1{
+                    font-size: 35px;
+                    color: #6D6875;
+                }
+
+                p{
+                    font-size: 18px;
+                    color: #6D6875;
+                }
+            }
         }
     }
 
