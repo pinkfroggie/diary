@@ -216,10 +216,40 @@ $lightPink: #EABEC3;
 
             .content{
                 flex: 5;
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+
+                input{
+                    padding: 10px;
+                    border: 1px solid #EABEC3;
+                }
+
+                .editorContainer{
+                    height: 300px;
+                    overflow: scroll;
+                    border: 1px solid #EABEC3;
+
+                    .editor{
+                        height: 100%;
+                        border: 1px solid #EABEC3;
+                    }
+                }
             }
 
             .menu{
                 flex: 2;
+                display: flex;
+                flex-direction: row;
+                gap: 20px;
+
+                .item{
+                    border: 1px solid #EABEC3;
+                    flex-direction: row;
+                    color: #6D6875;
+                }
+
+
             }
         }
     }
