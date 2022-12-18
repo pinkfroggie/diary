@@ -185,6 +185,25 @@ $lightPink: #EABEC3;
 
             .menu{
                 flex: 2;
+                display: flex;
+                flex-direction: column;
+
+                h1{
+                    color: #D0637C;
+                    font-size: 35px;
+                }
+
+                h2{
+                    color: #6D6875;
+                }
+
+                button {
+                    width: max-content;
+                    background-color: #FFB4A2;
+                    color: #6D6875;
+                    border: 1px solid #6D6875;
+                    cursor: pointer;
+                }
             }
         }
     }
