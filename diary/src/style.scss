@@ -129,6 +129,14 @@ $lightPink: #EABEC3;
                     font-size: 18px;
                     color: #6D6875;
                 }
+
+                button {
+                    width: max-content;
+                    background-color: #FFB4A2;
+                    color: #6D6875;
+                    border: 1px solid #6D6875;
+                    cursor: pointer;
+                }
             }
         }
     }

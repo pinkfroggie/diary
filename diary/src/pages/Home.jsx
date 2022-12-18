@@ -31,6 +31,7 @@ const Home = () => {
               <h1>{post.title}</h1>
               </Link>
               <p>{post.desc}</p>
+              <button>read more</button>
             </div>
           </div>
         ))}
