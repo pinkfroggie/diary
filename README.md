@@ -1,8 +1,13 @@
 # diary
 
-javascript, react, quill, axios, node.js, mysql, bcrypt
+##javascript, react, quill, axios, node.js, mysql, bcrypt
 
-color paletteS used
+###songs on repeat to get me through this:
+AJUSHI by leellamarz, cruicial star, qm, kim jae wook, nsw yoon, damini
+ANTIFRAGILE by le sserafim
+LOWLIFE PRINCESS by bibi
+
+color palettes used
 https://www.pinterest.com/pin/281543718855695/ +
 https://www.pinterest.com/pin/351912462859884/ 
 
