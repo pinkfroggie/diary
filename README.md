@@ -6,6 +6,8 @@
 AJUSHI by leellamarz, cruicial star, qm, kim jae wook, nsw yoon, damini
 ANTIFRAGILE by le sserafim
 LOWLIFE PRINCESS by bibi
+MY WAY by justhis, don malik, huh, khan, mackdaddy, los
+RUTHLESS by the marias
 
 color palettes used
 https://www.pinterest.com/pin/281543718855695/ +
