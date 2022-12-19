@@ -1,6 +1,6 @@
 # diary
 
-javascript, react, quill, axios, node.js, mysql
+javascript, react, quill, axios, node.js, mysql, bcrypt
 
 color paletteS used
 https://www.pinterest.com/pin/281543718855695/ +
