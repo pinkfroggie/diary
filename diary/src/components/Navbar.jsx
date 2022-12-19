@@ -10,7 +10,6 @@ const Navbar = () => {
           <img src={Logo} alt=''/>
         </div>
         <div className='links'>
-          <span>JOHN</span>
           <Link className='link' to='/single'><h5>READ</h5></Link>
           <Link className='link' to='/login'><h5>LOGOUT</h5></Link>
           <span className='post'>
