@@ -38,4 +38,6 @@ const Register = () => {
   )
 }
 
+// 1:16:57 in video, stuck with protocol enqueue fatal error
+
 export default Register;
