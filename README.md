@@ -1,6 +1,6 @@
 # diary
 
-##javascript, react, quill, axios, node.js, mysql, bcrypt
+##javascript, react, quill, axios, node.js, mysql2, bcrypt
 
 ###songs on repeat to get me through this:
 AJUSHI by leellamarz, cruicial star, qm, kim jae wook, nsw yoon, damini
